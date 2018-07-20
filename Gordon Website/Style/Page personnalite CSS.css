@@ -1,0 +1,75 @@
+body {
+	background-color: rgb(240, 240, 240);
+	background-image: url('https://i2-prod.cornwalllive.com/news/cornwall-news/article410595.ece/ALTERNATES/s1200/GordonRamsay.jpg%22');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+}
+
+#titre{
+  background-color: rgb(255, 163, 75);
+  padding: 15;
+  font-family: "Montserrat";
+}
+
+#piedDePage{
+  background-color: rgb(111, 85, 67);
+  color: lightGrey;
+  margin-top: 1000px;
+}
+
+#menu{
+  float: left;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: rgb(210,180,140);
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 63px 50px;
+  text-decoration: none;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+}
+
+li a:hover {
+  background-color: rgb(236, 199, 141);
+}
+
+#section{
+  font-family: 'Arimo', sans-serif;
+  float:left;
+  margin-left: 10px;
+  height: auto;
+  font-size: 24px;
+}
+
+#gentilGordon{
+	position: absolute;
+	margin-left: 213px;
+	margin-top: 250px;
+	font-family: 'Arimo', sans-serif;
+	font-size: 20px;
+}
+
+#frustreGordon{
+	position: absolute;
+	margin-left: 800px;
+	margin-top: 250px;
+	font-family: 'Arimo', sans-serif;
+	font-size: 20px;
+}
+
+#hellGordon{
+	position: absolute;
+	margin-left: 1390px;
+	margin-top: 10px;
+}
